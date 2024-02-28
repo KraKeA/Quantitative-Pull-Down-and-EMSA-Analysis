@@ -14,7 +14,7 @@ binding affinities and interactions between molecules.
 
 ## Features
 - **Data Import:** Easily import your experimental data in picture form.
-- **Kd Estimation:** Accurate calculation of the dissociation constant (Kd) from your EMSA or pull-down data.
+- **Kd Estimation:** Calculation of the dissociation constant (Kd) from your EMSA or pull-down data.
 - **Graphical Representation:** Automatically generate graphs displaying the experimental data along with a modeled binding curve for visual analysis.
 - **Export Options:** Export your results and graphs for use in presentations, publications, or further analysis.
 
